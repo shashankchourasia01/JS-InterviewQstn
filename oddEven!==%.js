@@ -10,3 +10,16 @@ function oddEven(n){
     }
 }
 oddEven(7)
+
+//using % operator
+
+function oddEve(n){
+    if(n % 2 === 0){
+        console.log("even");
+        
+    } else{
+        console.log("odd");
+        
+    }
+}
+oddEve(10)
