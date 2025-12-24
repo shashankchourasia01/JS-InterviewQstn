@@ -18,4 +18,4 @@ function remove(s){
     }
     return result
 }
-console.log(remove('(()())(()())'));
+console.log(remove('(()())(()()())'));
