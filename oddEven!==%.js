@@ -22,4 +22,4 @@ function oddEve(n){
         
     }
 }
-oddEve(10)
+oddEve(30)
