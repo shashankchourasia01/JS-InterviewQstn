@@ -12,4 +12,4 @@ function secLar(arr){
      return sec
 }
 
-console.log(secLar([1,2,3,5,6,3]));
+console.log(secLar([2,5,1,7,8,2]));
