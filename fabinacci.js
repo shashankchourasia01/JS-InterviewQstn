@@ -8,4 +8,4 @@ function fabi(n){
         
     }
 }
-console.log(fabi(6));
+console.log(fabi(7));
