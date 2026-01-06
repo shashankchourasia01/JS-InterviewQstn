@@ -13,4 +13,4 @@ function bS(arr){
 
 }
 
-console.log();
+console.log(bS([5,3,1,2,4]));
