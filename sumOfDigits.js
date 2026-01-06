@@ -8,4 +8,4 @@ function sumDigits(num){
     return num
 }
 
-console.log();
+console.log(sumDigits(1234));
