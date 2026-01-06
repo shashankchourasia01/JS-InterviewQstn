@@ -5,7 +5,7 @@ function sumDigits(num){
         sum = sum + digits;
         num = Math.floor( num / 10)
     }
-    return num
+    return sum
 }
 
 console.log(sumDigits(1234));
